@@ -8,6 +8,12 @@
 <p align='center'>
   <img src ='https://img.shields.io/badge/C%2B%2B-Proficient-red'>
   <img src ='https://img.shields.io/badge/Java-Intermediate-yellow'>
+  <img src ='https://img.shields.io/badge/Html-Proficient-red'>
+  <img src ='https://img.shields.io/badge/CSS-intermidiate-blue'>
+  <img src ='https://img.shields.io/badge/Dart-Intermediate-orange'>
+  <img src ='https://img.shields.io/badge/Flutter-Intermediate-orange'>
+  <img src ='https://img.shields.io/badge/Javascript-Proficient-brightgreen'>
+  
 </p>
 <p align = 'center'>
  <a href='https://www.facebook.com/pushkar.khadase'><img src='https://github.com/pushkarkhadase/Solution-s-Hub/blob/master/social/facebook.png'></a>
