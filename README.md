@@ -11,7 +11,7 @@
 </p>
 <p align = 'center'>
  <a href='https://www.facebook.com/pushkar.khadase'><img src='https://github.com/pushkarkhadase/Solution-s-Hub/blob/master/social/facebook.png'></a>
- <a href='https://www.instagram.com/pushkarkhadase/?hl=en'><img src='https://github.com/pushkarkhadase/Solution-s-Hub/blob/master/social/linkedin.png'></a>
- <a href='https://www.linkedin.com/in/pushkar-khadase-4b276a1a4/'><img src='https://github.com/pushkarkhadase/Solution-s-Hub/blob/master/social/twitter.png'></a>
- <a href=''><img src='https://github.com/pushkarkhadase/Solution-s-Hub/blob/master/social/youtube.png'></a>
+ <a href='https://www.instagram.com/pushkarkhadase/?hl=en'><img src='https://github.com/pushkarkhadase/Solution-s-Hub/blob/master/social/instagram.png'></a>
+ <a href='https://twitter.com/KhadasePushkar'><img src='https://github.com/pushkarkhadase/Solution-s-Hub/blob/master/social/twitter.png'></a>
+ <a href='https://www.linkedin.com/in/pushkar-khadase-4b276a1a4/'><img src='https://github.com/pushkarkhadase/Solution-s-Hub/blob/master/social/linkedin.png'></a>
 </p>
